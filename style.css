@@ -1,0 +1,48 @@
+h2{
+    padding-top: 15%;
+    font-size: 30;
+    color: white;
+}
+h1{
+    font-weight: 900;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50;
+    color: white;
+}
+body{
+    padding-left: 17%;
+    background-color: black;
+}
+p{
+    font-style: oblique;
+    font-size: larger;
+    color: white;
+}
+#name{
+    color: rgb(184, 184, 82);
+}
+#text{
+    display: flex;
+    width: 100%;
+}
+#img1{
+    padding-left: 30%;
+    height: 100%;
+    padding-top: 7%;
+    border-radius: 10%;
+}
+a{
+    text-decoration: none;
+    border-radius: 50%;
+    border: 34px;
+    background-color: rgb(184, 184, 82);
+    color: rgb(0, 0, 0);
+    letter-spacing: 10;
+    padding-top: 6;
+    padding-bottom: 6;
+    padding-right: 6;
+    padding-left: 18;
+}
+a :hover{
+    color: aqua;
+}
